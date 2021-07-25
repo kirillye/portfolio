@@ -1,0 +1,35 @@
+// =========== Color =============//
+$linear: #FDDE76; 
+
+
+
+//  =========== Import ===========//
+@import "../scss/bloks/hero";
+
+@import "../scss/bloks/featurs";
+
+@import "../scss/bloks/project";
+
+@import "../scss/bloks/contact";
+
+
+//  ==========  General  ============= //
+
+
+*{
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    position: relative;
+    max-width: 945px;
+    margin: 0 auto; 
+}
+
+
+body{
+    background: #20202D;
+}
+
+
